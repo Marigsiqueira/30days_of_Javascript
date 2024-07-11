@@ -1,6 +1,6 @@
 /** 
-Escreva uma função  createCounterque ajude os desenvolvedores a testar seus códigos. Ela deve receber qualquer valor  
-init e retornar um objeto com as duas funções a seguir.
+Escreva uma função  createCounter que ajude os desenvolvedores a testar seus códigos. Ela deve receber qualquer valor  
+init e retornar um objeto com as funções a seguir.
 
 As três funções são:
 increment() aumenta o valor atual em 1 e depois o retorna.
